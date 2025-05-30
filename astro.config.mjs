@@ -8,7 +8,7 @@ export default defineConfig({
   integrations: [
     starlight({
       plugins: [starlightThemeNova()],
-      title: "Domi Health Docs",
+      title: "Domi Health",
       social: [
         {
           icon: "github",
@@ -21,7 +21,7 @@ export default defineConfig({
           label: "Getting Started",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "introduction", slug: "guides/example" },
+            { label: "introduction", slug: "getting-started/introduction" },
           ],
         },
         {
