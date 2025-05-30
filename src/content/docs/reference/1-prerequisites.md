@@ -139,7 +139,7 @@ Before diving into the technical setup, it's helpful to understand these healthc
 - **HIPAA Awareness**: Privacy and security considerations (US healthcare)
 - **Care Coordination**: Managing multiple healthcare providers for one patient
 
-#### Domiciliary Care\*\*
+#### Domiciliary Care
 
 - **Home Healthcare**: Medical services provided in the patient's home
 - **Care Teams**: Multidisciplinary groups (physiotherapists, nurses, doctors)
