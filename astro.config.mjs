@@ -26,7 +26,13 @@ export default defineConfig({
         },
         {
           label: "Getting Started",
-          autogenerate: { directory: "reference" },
+          items: [
+            // Each item here is one entry in the navigation menu.
+            { label: "Prerequisites", slug: "started/prerequisites" },
+            { label: "Installation", slug: "started/installation" },
+            { label: "Quick Start", slug: "started/quick-start" },
+            { label: "Core Concepts", slug: "started/core-concepts" },
+          ],
         },
       ],
     }),
