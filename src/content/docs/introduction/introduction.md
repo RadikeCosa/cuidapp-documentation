@@ -3,8 +3,6 @@ title: Introduction
 description: Welcome to Domi Health - Where healthcare expertise meets modern web development.
 ---
 
-## Welcome to Domi Health
-
 ## From Healthcare Practice to Digital Innovation
 
 After more than **20 years** as a licensed physiotherapist, I made a pivotal decision in 2020: to transition into software development. This wasn't just a career change—it was the beginning of a mission to bridge two worlds I'm passionate about.

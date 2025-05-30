@@ -18,14 +18,14 @@ export default defineConfig({
       ],
       sidebar: [
         {
-          label: "Getting Started",
+          label: "Introduction",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "introduction", slug: "getting-started/introduction" },
+            { label: "introduction", slug: "introduction/introduction" },
           ],
         },
         {
-          label: "User Guides",
+          label: "Getting Started",
           autogenerate: { directory: "reference" },
         },
       ],
