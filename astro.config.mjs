@@ -8,7 +8,8 @@ export default defineConfig({
   integrations: [
     starlight({
       plugins: [starlightThemeNova()],
-      title: "Domi Health",
+      title: "Nest Care Hub Documentation",
+      description: "Documentation for the Nest Care Hub project.",
       social: [
         {
           icon: "github",
@@ -25,13 +26,10 @@ export default defineConfig({
           ],
         },
         {
-          label: "Getting Started",
+          label: "Implementation Walkthrough",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "Prerequisites", slug: "started/prerequisites" },
-            { label: "Installation", slug: "started/installation" },
-            { label: "Quick Start", slug: "started/quick-start" },
-            { label: "Core Concepts", slug: "started/core-concepts" },
+            { label: "Initial Setup", slug: "walkthrough/initial-setup" },
           ],
         },
       ],
