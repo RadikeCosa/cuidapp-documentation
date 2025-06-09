@@ -22,14 +22,14 @@ export default defineConfig({
           label: "Introduction",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "introduction", slug: "introduction/introduction" },
+            { label: "Introduction", slug: "introduction/introduction" },
           ],
         },
         {
-          label: "Implementation Walkthrough",
+          label: "Project Overview",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "Initial Setup", slug: "walkthrough/initial-setup" },
+            { label: "Overview", slug: "overview/project-overview" },
           ],
         },
       ],
