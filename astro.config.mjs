@@ -10,6 +10,24 @@ export default defineConfig({
       plugins: [starlightThemeNova()],
       title: "CuidApp Documentation",
       description: "Documentation for the CuidApp project.",
+      defaultLocale: "root",
+      locales: {
+        // Español como idioma raíz (sin prefijo en la URL)
+        root: {
+          label: "Español",
+          lang: "es",
+        },
+        // Inglés con prefijo /en/
+        en: {
+          label: "English",
+          lang: "en",
+        },
+      },
+      // Habilitar selector de tema claro/oscuro
+      customCss: [
+        // Opcional: agregar estilos personalizados
+        "./src/styles/custom.css",
+      ],
       social: [
         {
           icon: "github",
