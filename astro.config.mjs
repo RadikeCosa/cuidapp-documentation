@@ -23,11 +23,6 @@ export default defineConfig({
           lang: "en",
         },
       },
-      // Habilitar selector de tema claro/oscuro
-      customCss: [
-        // Opcional: agregar estilos personalizados
-        "./src/styles/custom.css",
-      ],
       social: [
         {
           icon: "github",
