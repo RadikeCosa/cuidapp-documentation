@@ -8,8 +8,8 @@ export default defineConfig({
   integrations: [
     starlight({
       plugins: [starlightThemeNova()],
-      title: "Nest Care Hub Documentation",
-      description: "Documentation for the Nest Care Hub project.",
+      title: "CuidApp Documentation",
+      description: "Documentation for the CuidApp project.",
       social: [
         {
           icon: "github",
