@@ -9,7 +9,7 @@ description: Contexto y motivación detrás del proyecto para una aplicación de
 
 Mi nombre es Ramiro, y durante varios años he trabajado como kinesiólogo especializado en atención domiciliaria. Día tras día, visitando pacientes en sus hogares, me enfrenté a los desafíos de coordinar horarios, gestionar registros clínicos y optimizar el tiempo para brindar atención de calidad. La atención domiciliaria es un campo donde la empatía, la organización y la eficiencia son esenciales, pero también donde las herramientas tecnológicas suelen ser limitadas o estar mal adaptadas a las necesidades reales de profesionales independientes o equipos pequeños.
 
-Esta experiencia me llevó a una pregunta recurrente: ¿cómo podría la tecnología simplificar y mejorar el trabajo de profesionales como yo? Fue entonces cuando, inspirado por mi pasión por la resolución de problemas y mi curiosidad por la programación, decidí embarcarme en un cambio de carrera hacia el desarrollo de software. Este proyecto nació de esa transición: una aplicación diseñada para profesionales de atención domiciliaria, creada desde la perspectiva de alguien que conoce las necesidades del sector de primera mano.
+A medida que fui explorando otras formas de resolver estos desafíos, descubrí en la programación una herramienta poderosa para diseñar soluciones concretas. Mi transición hacia el desarrollo de software no fue un salto impulsivo, sino una decisión progresiva, basada en la necesidad de construir algo útil con el conocimiento acumulado en el campo. Este proyecto nace precisamente de esa intersección: una app pensada desde la experiencia real, con el objetivo de mejorar el trabajo diario de quienes brindan atención domiciliaria.
 
 ### La Motivación Detrás de la Aplicación
 
