@@ -1,30 +1,32 @@
 ---
-title: "Project Overview"
-description: "Setting Up the App: Layouts, Navigation, and Patient Flow"
+title: "Descripción General del Proyecto"
+description: "Configuración de la App: Diseños, Navegación y Flujo de Pacientes"
 ---
 
-The home care application is designed to streamline workflows for independent home care professionals and small teams, such as physicians, physical therapists, nurses, speech therapists, and occupational therapists. Drawing from the creator’s experience as a kinesiologist, the app addresses real-world challenges faced by home care providers, offering a tailored solution to enhance efficiency and organization in patient care.
+# Descripción General del Proyecto
 
-Purpose and Target Audience
+La aplicación de atención domiciliaria está diseñada para optimizar los flujos de trabajo de profesionales independientes de atención domiciliaria y equipos pequeños, como médicos, fisioterapeutas, enfermeras, fonoaudiólogos y terapeutas ocupacionales. Basándose en la experiencia del creador como kinesiólogo, la aplicación aborda desafíos del mundo real que enfrentan los proveedores de atención domiciliaria, ofreciendo una solución personalizada para mejorar la eficiencia y organización en el cuidado de pacientes.
 
-This application serves home care professionals who need an intuitive, reliable tool to manage their daily operations. Whether working solo or in small teams, these providers often lack software designed specifically for their unique needs. The app simplifies administrative tasks and patient management, allowing professionals to focus on delivering quality care.
+## Propósito y Audiencia Objetivo
 
-Key Features
+Esta aplicación sirve a profesionales de atención domiciliaria que necesitan una herramienta intuitiva y confiable para gestionar sus operaciones diarias. Ya sea trabajando solos o en equipos pequeños, estos proveedores a menudo carecen de software diseñado específicamente para sus necesidades únicas. La aplicación simplifica las tareas administrativas y la gestión de pacientes, permitiendo a los profesionales enfocarse en brindar atención de calidad.
 
-The application's core features are designed to support home care workflows effectively:
+## Características Principales
 
-Patient Record Management: Collect, store, and display critical patient information, accessible through a detailed view for each individual.
+Las características principales de la aplicación están diseñadas para apoyar efectivamente los flujos de trabajo de atención domiciliaria:
 
-Task Organization: Efficiently manage both administrative and care-related tasks.
+**Gestión de Registros de Pacientes**: Recopilar, almacenar y mostrar información crítica del paciente, accesible a través de una vista detallada para cada individuo.
 
-Dashboard and Patient List: A centralized dashboard provides access to a complete patient list, with a side navigation bar for quick access to key modules.
+**Organización de Tareas**: Gestionar eficientemente tanto las tareas administrativas como las relacionadas con la atención.
 
-Smart Scheduling and Collaboration: Leverage existing tools to create intelligent work routes, calculate travel times, and organize a shared agenda with other professionals and patients. This ensures everyone stays up-to-date with upcoming visits and relevant information.
+**Panel de Control y Lista de Pacientes**: Un panel centralizado proporciona acceso a una lista completa de pacientes, con una barra de navegación lateral para acceso rápido a módulos clave.
 
-Problems Solved
+**Programación Inteligente y Colaboración**: Aprovechar herramientas existentes para crear rutas de trabajo inteligentes, calcular tiempos de viaje y organizar una agenda compartida con otros profesionales y pacientes. Esto asegura que todos se mantengan actualizados con las próximas visitas e información relevante.
 
-Home care professionals often face inefficiencies due to generic tools or manual processes that fail to address their specific needs. This app tackles these issues by providing an organized, user-friendly interface with good UX and performance. By prioritizing relevant patient information and streamlining access, it reduces administrative burdens and enhances care delivery.
+## Problemas Resueltos
 
-Project Scope
+Los profesionales de atención domiciliaria a menudo enfrentan ineficiencias debido a herramientas genéricas o procesos manuales que no abordan sus necesidades específicas. Esta aplicación aborda estos problemas proporcionando una interfaz organizada y fácil de usar con buena UX y rendimiento. Al priorizar la información relevante del paciente y simplificar el acceso, reduce las cargas administrativas y mejora la prestación de atención.
 
-The initial release focuses on the patient module, which collects, stores, and displays essential patient data. A key challenge is determining what information is most relevant and prioritizing its display for maximum utility. Future expansions may include integrations with maps for visit planning or messaging APIs for improved communication, building on the core functionality to meet evolving needs.
+## Alcance del Proyecto
+
+El lanzamiento inicial se centra en el módulo de pacientes, que recopila, almacena y muestra datos esenciales del paciente. Un desafío clave es determinar qué información es más relevante y priorizar su visualización para máxima utilidad. Las expansiones futuras pueden incluir integraciones con mapas para planificación de visitas o APIs de mensajería para mejorar la comunicación, construyendo sobre la funcionalidad central para satisfacer necesidades en evolución.
