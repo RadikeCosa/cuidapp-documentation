@@ -57,6 +57,13 @@ export default defineConfig({
                 es: "Descripción General",
               },
             },
+            {
+              label: "Technical Desicions",
+              slug: "overview/technical-decisions",
+              translations: {
+                es: "Desiciones Tecnicas",
+              },
+            },
           ],
         },
       ],
