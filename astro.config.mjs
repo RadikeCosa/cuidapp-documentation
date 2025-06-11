@@ -64,6 +64,13 @@ export default defineConfig({
                 es: "Desiciones Tecnicas",
               },
             },
+            {
+              label: "Requirements",
+              slug: "overview/requirements",
+              translations: {
+                es: "Requisitos",
+              },
+            },
           ],
         },
       ],
